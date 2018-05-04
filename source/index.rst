@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    hello
+   test
 
 Indices and tables
 ==================
